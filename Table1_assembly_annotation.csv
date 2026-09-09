@@ -1,0 +1,3 @@
+Isolate,Fold_Sequencing_Depth_X,Assembled_Genome_Size_Mbp,Contig_N50_Kbp,Contig_L50,Completeness_pct,GC_Content_pct,Coding_Sequence,Ribosomal_RNA,Transfer_RNA,Transfer_messenger_RNA,Non_coding_RNA
+LyasA,>1000,4.50,333.74,6,99.88,45.39,4118,4,38,1,1
+LyasB,>1000,4.50,384.45,3,99.92,45.39,4115,4,38,1,1

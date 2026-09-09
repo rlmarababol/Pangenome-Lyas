@@ -1,0 +1,11 @@
+Genome_Code,RefSeq_Accession,Country,Habitat
+LyasA,PRJNA1459639 (BioSample SAMN62336287; GCA JCCCNU000000000),Philippines,Soil
+LyasB,PRJNA1459639 (BioSample SAMN57560757; GCA JBYAXG000000000),Philippines,Soil
+LyasC,GCF_019266585.1,Malaysia,Soil
+LyasD,GCF_004770815.1,Malaysia,Water
+LyasE,GCF_004770235.1,Malaysia,Soil
+LyasF,GCF_004770135.1,Malaysia,Soil
+LyasG,GCF_004769735.1,Malaysia,Water
+LyasH,GCF_004769695.1,Malaysia,Water
+LyasI,GCF_003545925.1,Brazil,Soil
+LyasJ,GCF_003545865.1,Brazil,Soil

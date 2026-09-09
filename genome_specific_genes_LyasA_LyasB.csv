@@ -1,0 +1,15 @@
+Genome,Gene_ID,Product,Structural_Homology_Result
+LyasA,EHHGDB_07575,hypothetical protein,No confident match
+LyasA,EHHGDB_12085,hypothetical protein,No confident match
+LyasA,EHHGDB_13870,hypothetical protein,No confident match
+LyasA,EHHGDB_18250,hypothetical protein,Weak sub-threshold association with phage-derived proteins (E > 1e-3)
+LyasA,EHHGDB_19375,hypothetical protein,No confident match
+LyasA,EHHGDB_19380,hypothetical protein,No confident match
+LyasA,EHHGDB_20790,hypothetical protein,No confident match
+LyasA,EHHGDB_20800,Transposase,Not screened (functionally annotated)
+LyasB,ODLLIK_02095,DNA (cytosine-5-)-methyltransferase,Not screened (functionally annotated)
+LyasB,ODLLIK_09145,Helix-turn-helix domain-containing protein,Not screened (functionally annotated)
+LyasB,ODLLIK_09690,membrane protein insertion efficiency factor YidD,Not screened (functionally annotated)
+LyasB,ODLLIK_12825,type I restriction-modification system subunit M,Not screened (functionally annotated; confirmed via mobileOG-db hsdM homology 73.3%)
+LyasB,ODLLIK_12830,Anticodon nuclease,Not screened (functionally annotated)
+LyasB,ODLLIK_12835,hypothetical protein,High-confidence structural match to type I R-M specificity (S) subunit (E = 3.1e-10 to 6.9e-14)
