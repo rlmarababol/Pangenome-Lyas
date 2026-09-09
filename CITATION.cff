@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript."
+type: software
+title: "Pangenomic analysis of Leptospira yasudae reveals habitat-driven core and accessory genome divergence"
+authors:
+  - family-names: "Marababol"
+    given-names: "Ram Julius L."
+    affiliation: "Institute of Biology, College of Science, University of the Philippines Diliman; Philippine Genome Center, University of the Philippines System"
+    orcid: "[ORCID if available]"
+  - family-names: "Rivera"
+    given-names: "Windell L."
+    affiliation: "Institute of Biology, College of Science, University of the Philippines Diliman; Philippine Genome Center, University of the Philippines System"
+    orcid: "[ORCID if available]"
+repository-code: "[GitHub repository URL]"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Pangenomic analysis of Leptospira yasudae reveals habitat-driven core and accessory genome divergence"
+  authors:
+    - family-names: "Marababol"
+      given-names: "Ram Julius L."
+    - family-names: "Rivera"
+      given-names: "Windell L."
+  journal: "[Journal name]"
+  year: [YYYY]
+  doi: "[DOI once available]"

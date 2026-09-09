@@ -1,0 +1,45 @@
+name: lyasudae-genomics
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - r-base
+  - trimmomatic
+  - fastqc
+  - spades
+  - quast
+  - checkm2==1.1.0
+  - bakta==1.12.1
+  - fastani
+  - blast
+  - ragtag
+  - ppanggolin
+  - fasttree
+  - biopython
+  - bwa
+  - samtools
+  - mosdepth
+  - minimap2
+  - r-tidyverse
+  - r-ggplot2
+  - r-ggforce
+  - r-ggalluvial
+  - r-colorspace
+  - r-patchwork
+  - r-ape
+  - r-phangorn
+  - r-igraph
+  - r-ggbreak
+  - r-ggrepel
+  - r-jsonlite
+  - r-ggpmisc
+  - r-circlize
+  - playwright
+  # Note: bakta and checkm2 are pinned to the versions confirmed used in
+  # this study (v1.12.1 and v1.1.0 respectively). Remaining tools were run
+  # at their latest available version at time of analysis; exact versions
+  # for these should be confirmed and pinned here before final submission,
+  # since tool updates after publication could otherwise change results
+  # on re-run.
